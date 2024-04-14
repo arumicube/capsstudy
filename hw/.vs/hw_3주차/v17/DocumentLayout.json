@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E238E7A2-295C-4863-AE2D-B6A7679166BF}|hw3\\hw3.vcxproj|C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw3\\hw3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E238E7A2-295C-4863-AE2D-B6A7679166BF}|hw3\\hw3.vcxproj|solutionrelative:hw3\\hw3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anary\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\hw3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F148826-E2CE-4E83-809F-565AA1A66A82}|hw2\\hw2.vcxproj|C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw_3\uC8FC\\hw2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F148826-E2CE-4E83-809F-565AA1A66A82}|hw2\\hw2.vcxproj|solutionrelative:hw_3\uC8FC\\hw2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFF316C-E3C5-40CA-BD8D-4F0EAEAE954E}|hw_3\uC8FC\\hw_3\uC8FC.vcxproj|C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw_3\uC8FC\\hw1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CFF316C-E3C5-40CA-BD8D-4F0EAEAE954E}|hw_3\uC8FC\\hw_3\uC8FC.vcxproj|solutionrelative:hw_3\uC8FC\\hw1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hw3.c",
+              "DocumentMoniker": "C:\\Users\\anary\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\hw3.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\hw3.c",
+              "ToolTip": "C:\\Users\\anary\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\hw3.c",
+              "RelativeToolTip": "..\\..\\..\\..\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\hw3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T15:29:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw3.c",
+              "DocumentMoniker": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw3\\hw3.c",
+              "RelativeDocumentMoniker": "hw3\\hw3.c",
+              "ToolTip": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw3\\hw3.c",
+              "RelativeToolTip": "hw3\\hw3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T15:26:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hw2.c",
+              "DocumentMoniker": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw_3\uC8FC\\hw2.c",
+              "RelativeDocumentMoniker": "hw_3\uC8FC\\hw2.c",
+              "ToolTip": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw_3\uC8FC\\hw2.c",
+              "RelativeToolTip": "hw_3\uC8FC\\hw2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T15:14:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hw1.c",
+              "DocumentMoniker": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw_3\uC8FC\\hw1.c",
+              "RelativeDocumentMoniker": "hw_3\uC8FC\\hw1.c",
+              "ToolTip": "C:\\Users\\anary\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\caps study\\\uC2A4\uD130\uB514 3\uC8FC\uCC28(4\uC8FC\uCC28)\\hw\\hw_3\uC8FC\\hw1.c",
+              "RelativeToolTip": "hw_3\uC8FC\\hw1.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T14:59:48.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
