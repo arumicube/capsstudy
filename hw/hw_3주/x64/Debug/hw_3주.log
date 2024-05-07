@@ -1,0 +1,4 @@
+﻿  hw2.c
+C:\Users\anary\OneDrive\바탕 화면\caps study\스터디 3주차(4주차)\hw\hw_3주\hw2.c(22,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+hw2.obj : error LNK2005: main이(가) hw1.obj에 이미 정의되어 있습니다.
+C:\Users\anary\OneDrive\바탕 화면\caps study\스터디 3주차(4주차)\hw\x64\Debug\hw_3주.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
